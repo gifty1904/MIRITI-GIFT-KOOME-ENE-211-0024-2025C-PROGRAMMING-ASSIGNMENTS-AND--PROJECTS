@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1791301012 source:c:\users\my pc\onedrive\documents\.blocksmetadata\project\new\pin based door lock system\main.c
+	<stdio.h>
+	<string.h>
+	<windows.h>
+
